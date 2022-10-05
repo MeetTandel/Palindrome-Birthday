@@ -2,7 +2,7 @@
 
 This app will check if your birthday is a palindrome or not. If not it will give you the closest palindrome in future or past.
 
-#### Live Project [https://g9y4w.csb.app/](https://g9y4w.csb.app/)
+#### Live Project [https://palindrome-birthday-meet.netlify.app/](https://palindrome-birthday-meet.netlify.app/)
 
 ## How to Use
 
